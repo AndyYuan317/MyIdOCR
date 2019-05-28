@@ -9,7 +9,10 @@ Take photo or local picture recognization.
 ：
 
 下面的是剪切过图片后进行识别的时候如下：
-![图片1](你刚复制的图片路径)
+![图片1](https://github.com/AndyYuan317/MyIdOCR/blob/master/app/src/main/res/drawable/1.png)
+![图片2](https://github.com/AndyYuan317/MyIdOCR/blob/master/app/src/main/res/drawable/2.png)
+![图片3](https://github.com/AndyYuan317/MyIdOCR/blob/master/app/src/main/res/drawable/3.png)
+![图片4](https://github.com/AndyYuan317/MyIdOCR/blob/master/app/src/main/res/drawable/4.png)
 
 
 

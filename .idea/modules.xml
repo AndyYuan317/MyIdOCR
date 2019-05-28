@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyIdOCR.iml" filepath="$PROJECT_DIR$/MyIdOCR.iml" />
+      <module fileurl="file://C:\Users\AndyYuan\AndroidStudioProjects\idIdentification\NativeRecognitionMethod\MyIdOCR\MyIdOCR\MyIdOCR.iml" filepath="C:\Users\AndyYuan\AndroidStudioProjects\idIdentification\NativeRecognitionMethod\MyIdOCR\MyIdOCR\MyIdOCR.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\AndyYuan\AndroidStudioProjects\idIdentification\NativeRecognitionMethod\MyIdOCR\MyIdOCR\app\app.iml" filepath="C:\Users\AndyYuan\AndroidStudioProjects\idIdentification\NativeRecognitionMethod\MyIdOCR\MyIdOCR\app\app.iml" />
     </modules>
   </component>
 </project>

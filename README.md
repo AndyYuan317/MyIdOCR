@@ -9,6 +9,7 @@ Take photo or local picture recognization.
 ：
 
 下面的是剪切过图片后进行识别的时候如下：
+![图片1](你刚复制的图片路径)
 
 
 
